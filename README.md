@@ -12,6 +12,7 @@
 
 #### 资源列表(按住shift+滚轮可左右滑动)
 | 编号 | 名称 | 介绍 | 标签 | 保存日期 | 
+| --- | --- | --- | --- | --- | 
 |4244| [黑马-2023版Java线下就业班(8月版)，赠送29个实战项目_超清网盘](https://www.yuque.com/lib_liuyp/heu62a/course?singleDoc"进入搜索&筛选页") |暂无|体系课程,Java,黑马|2023-12-19|
 |3656| [2023重磅更新，TS 从入门到深度掌握，晋级TypeScript高手_完结无密](https://www.yuque.com/lib_liuyp/heu62a/course?singleDoc"进入搜索&筛选页") |640-从 0 基础系统构建 TS 知识体系，同时手把手带你编写 vuex4 及 Promise 真实源码项目，综合提升你的 TS 实战能力，最后再剖析 Vue3 源码当中 TS 的高级用法，让你真吃透 TS，成为 TS 高手| 项目实战,TS|2023-12-18|
 |3894| [极K时间-高级Java工程师体系课2.0_超清完结无秘](https://www.yuque.com/lib_liuyp/heu62a/course?singleDoc"进入搜索&筛选页") |高级Java工程师体系课2.0视频教程| 体系课程,Java|2023-12-15|
